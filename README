@@ -1,0 +1,11 @@
+MacRubyRemote
+
+this is just a proof of concept, very rough around the edges. But it works.
+You need MacRuby 0.5 and you need to install sinatra like this
+sudo macgem install sinatra
+
+then build and run the xcode app and then open the index.html in SpyClient directory.
+
+You can watch a video of it in action here: http://www.youtube.com/watch?v=N8mq8tit1sg
+
+Enjoy.
